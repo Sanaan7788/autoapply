@@ -1,0 +1,17 @@
+
+node_modules/
+.env
+.env.local
+.env.production
+
+# dist and build folders are auto-generated compiled output
+# They get regenerated when you build, no need to track them
+dist/
+build/
+
+# .DS_Store is a hidden Mac file that stores folder display settings
+# It has nothing to do with your code
+.DS_Store
+
+# npm debug logs are auto-generated error logs, not part of your code
+*.log
