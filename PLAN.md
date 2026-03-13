@@ -34,7 +34,7 @@
 ### 🔴 Module 1.1 — Project Scaffolding
 - [x] 1.1.1 Create the monorepo structure
 - [x] 1.1.2 Initialize the NestJS backend
-- [ ] 1.1.3 Initialize the React frontend
+- [x] 1.1.3 Initialize the React frontend
 - [ ] 1.1.4 Setup Docker Compose for PostgreSQL
 - [ ] 1.1.5 Connect NestJS to PostgreSQL via TypeORM
 - [ ] 1.1.6 Install and run Ollama locally
